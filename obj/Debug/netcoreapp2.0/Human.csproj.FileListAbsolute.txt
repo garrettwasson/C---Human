@@ -1,0 +1,11 @@
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\Human\bin\Debug\netcoreapp2.0\Human.deps.json
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\Human\bin\Debug\netcoreapp2.0\Human.runtimeconfig.json
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\Human\bin\Debug\netcoreapp2.0\Human.runtimeconfig.dev.json
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\Human\bin\Debug\netcoreapp2.0\Human.dll
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\Human\bin\Debug\netcoreapp2.0\Human.pdb
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\Human\obj\Debug\netcoreapp2.0\Human.csprojResolveAssemblyReference.cache
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\Human\obj\Debug\netcoreapp2.0\Human.csproj.CoreCompileInputs.cache
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\Human\obj\Debug\netcoreapp2.0\Human.AssemblyInfoInputs.cache
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\Human\obj\Debug\netcoreapp2.0\Human.AssemblyInfo.cs
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\Human\obj\Debug\netcoreapp2.0\Human.dll
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\Human\obj\Debug\netcoreapp2.0\Human.pdb
